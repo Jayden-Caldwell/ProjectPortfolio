@@ -1,6 +1,6 @@
 ## Irobot create 2
 
-The Irobot create 2 is a programmable roomba robot that is used to inspire generations of innovators. The limitations are endless with the create 2. In this project we are going to try use the create 2 as a base/framework and create a DOT robot that will move around and interact with people though the help of a servey that we will create. I belive this will help inspire new poeple into the world of Information Technology and also gather helpful date that can be used. 
+The IRobot create 2 is a programmable Roomba robot that is used to inspire generations of innovators. The limitations are endless with the create 2. In this project we are going to try use the create 2 as a base/framework and create a DOT robot that will move around and interact with people though the help of a survey that we will create. I believe this will help inspire new people into the world of Information Technology and gather helpful date that can be used.
 
 ### Markdown
 
