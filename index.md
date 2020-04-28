@@ -8,9 +8,7 @@ Below is some simple code I created using the software provided to draw a star.
 
 ![starCode](images/Code_for_star.JPG)
 
-This code is quite simple but gives an idea of how you could control the robot in a confined space like a small 
-room for example that you knew the size of. Or this could be used to travel to certain places in the room.
-If there are obstacles that are in the way code could be adapted to avoid the obstacle but still end at the designated point.
+This code is quite simple but gives an idea of how you could control the robot in a confined space like a small room for example that you knew the size of. Or this could be used to travel to certain places in the room. If there are obstacles that are in the way code could be adapted to avoid the obstacle but still end at the designated point.
 
 ![star](images/Star.JPG)
 
